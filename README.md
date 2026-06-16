@@ -34,5 +34,5 @@ The dashboard provides a clear overview of the organization's workforce and high
 
 ![HR Analytics Dashboard](DASHBOARD.png)
 
-[Paste or insert your Power BI dashboard image here.]
+
 
